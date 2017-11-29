@@ -1,14 +1,54 @@
 .topNav{
     background: #FFFFFF;
+    border: none;
+}
+
+.logo{
+    vertical-align:middle;
+    padding-top: 20px;
+}
+
+.logoImg{
 }
 
 .title{
+    vertical-align:middle;
     font-family: PingFangSC-Regular;
     font-size: 24px;
     color: #5A5A5A;
 }
 
+.small {
+    margin-top: 25px;
+    padding: 0px;
+    height: 3px;
+    width: 3px;
+    background: #D8D8D8;
+}
+
+.topTab{
+    padding-top: 25px;
+    padding-left: 15%;
+}
+
+.topTab li a{
+    font-family:PingFang-SC-Medium;
+    font-size: 16px;
+    color: #0181FF;
+}
+
+.liOut{
+    background: #0081FF;
+    border-radius: 4px;
+    margin-left: 20px;
+}
+
+.solution{
+    margin-top: 30px;
+}
+
 .zh{
+    margin-top: 30px;
     font-family: PingFangSC-Regular;
     font-size: 40px;
     color: #5A5A5A;
@@ -22,12 +62,94 @@
     text-align: center;
 }
 
+.internetImg{
+    height: 200px;
+    background: url("../image/j1.png") no-repeat;
+}
+
+.internetImg:hover{
+    height: 200px;
+    background: url("../image/j1hover.png") no-repeat;
+}
+
+.bigDataImg{
+    height: 200px;
+    background: url("../image/j2.png") no-repeat;
+}
+
+.bigDataImg:hover{
+    height: 200px;
+    background: url("../image/j2hover.png") no-repeat;
+}
+
+.riskImg{
+    height: 200px;
+    background: url("../image/j3.png") no-repeat;
+}
+
+.riskImg:hover{
+    height: 200px;
+    background: url("../image/j3hover.png") no-repeat;
+}
+
+.parkingImg{
+    height: 200px;
+    background: url("../image/j4.png") no-repeat;
+}
+
+.parkingImg:hover{
+    height: 200px;
+    background: url("../image/j4hover.png") no-repeat;
+}
+
+.quartersImg{
+    height: 200px;
+    background: url("../image/j5.png") no-repeat;
+}
+
+.quartersImg:hover{
+    height: 200px;
+    background: url("../image/j5hover.png") no-repeat;
+}
+
+.shoppingImg{
+    height: 200px;
+    background: url("../image/j6.png") no-repeat;
+}
+
+.shoppingImg:hover{
+    height: 200px;
+    background: url("../image/j6hover.png") no-repeat;
+}
+
+.soultionFont{
+    padding-top: 10px;
+    font-family: PingFangSC-Regular;
+    font-size: 20px;
+    color: #6B747C;
+}
+
+
+
 .serviceItem{
+    margin-top: 30px;
     background: #F8F8F8;
 }
 
-.yzsfw{
+.serviceImg{
     margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.serviceDiv img:hover{
+    transition: all .3s linear 0s;
+    -webkit-transition: all .3s linear 0s;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.yzsfw{
+    /*margin-top: 20px;*/
 }
 
 .caseList{
