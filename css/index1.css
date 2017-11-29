@@ -1,0 +1,91 @@
+.title{
+    font-family: PingFangSC-Regular;
+    font-size: 24px;
+    color: #5A5A5A;
+}
+
+.zh{
+    font-family: PingFangSC-Regular;
+    font-size: 40px;
+    color: #5A5A5A;
+    text-align: center;
+}
+
+.en{
+    font-size: 14px;
+    color: #DDDDDD ;
+    font-family: HelveticaNeue;
+    text-align: center;
+}
+
+.serviceItem{
+    background: #F8F8F8;
+}
+
+.yzsfw{
+    margin-top: 20px;
+}
+
+.caseList{
+    background: #F8F8F8;
+}
+
+.partner{
+    background: url(../image/partner-bg.png) no-repeat;
+    width: 100%;
+    height: 614px;
+    margin-top: 20px;
+}
+
+.about{
+    background: #FFFFFF;
+    box-shadow: 0 14px 35px 0 rgba(0,0,0,0.06);
+}
+
+.aboutFont{
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #6E6E6E;
+    line-height: 30px;
+    margin-top: 50px;
+}
+
+.numberDiv{
+    padding-left: 10%;
+    border-right: 1px solid #E0E0E0;
+}
+
+.number{
+    font-family: HelveticaNeue-Thin;
+    font-size: 72px;
+    color: #666666;
+}
+
+.numberDesc{
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #666666;
+}
+
+.foot{
+    background: #F0F0F0;
+}
+
+.company{
+    font-family: PingFangSC-Regular;
+    font-size: 16px;
+    color: #444444;
+    margin-top: 20px;
+}
+
+.address{
+    font-family: PingFangSC-Regular;
+    font-size: 12px;
+    color: #444444;
+}
+
+.copyright{
+    font-family: PingFangSC-Regular;
+    font-size: 12px;
+    color: #444444;
+}
